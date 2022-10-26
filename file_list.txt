@@ -1,0 +1,11 @@
+total 1.0K
+drwxr-xr-x 1 after93 197121  0 Oct 25 22:29 directory/
+-rw-r--r-- 1 after93 197121  0 Oct 25 22:33 file_list.txt
+-rw-r--r-- 1 after93 197121 16 Oct 25 22:20 helloworld2.txt
+drwxr-xr-x 1 after93 197121  0 Oct 25 22:25 test/
+total 2.0K
+drwxr-xr-x 1 after93 197121   0 Oct 25 22:29 directory/
+-rw-r--r-- 1 after93 197121 234 Oct 25 22:33 file_list.txt
+-rw-r--r-- 1 after93 197121   0 Oct 25 22:34 fuckyou.txt
+-rw-r--r-- 1 after93 197121  16 Oct 25 22:20 helloworld2.txt
+drwxr-xr-x 1 after93 197121   0 Oct 25 22:25 test/
